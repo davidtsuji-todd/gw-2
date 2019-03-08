@@ -1,1 +1,3 @@
 // app
+
+const app = () => {};
